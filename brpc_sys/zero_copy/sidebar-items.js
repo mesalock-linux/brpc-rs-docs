@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["BrpcZeroCopyBuf",""],["BrpcZeroCopyBufMut",""]],"fn":[["zero_copy_buf_advance",""],["zero_copy_buf_bytes",""],["zero_copy_buf_mut_advance",""],["zero_copy_buf_mut_bytes",""],["zero_copy_buf_mut_new",""],["zero_copy_buf_mut_remaining",""],["zero_copy_buf_new",""],["zero_copy_buf_remaining",""]],"struct":[["ZeroCopyBuf",""],["ZeroCopyBufMut",""]]});
